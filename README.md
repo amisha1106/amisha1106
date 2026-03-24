@@ -133,7 +133,7 @@ EDA • Feature Engineering • Model Experimentation • Real-world datasets
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amisha1106&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha1106&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha1106&layout=compact&hide=html,css,jupyter%20notebook" />
 </p>
 
 ---
