@@ -214,19 +214,24 @@ https://github.com/amisha1106/AI-Agent-for-FinTech-and-Risk-Management
 📊 Data Science Lead — GDG GIETU
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amisha1106&show_icons=true&theme=radical&hide_border=true" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amisha1106&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="180em" 
+  />
+  
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha1106&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+    height="180em" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha1106&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amisha1106&theme=radical&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=amisha1106&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ---
