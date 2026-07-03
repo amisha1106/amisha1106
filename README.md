@@ -384,46 +384,19 @@ https://github.com/amisha1106/Sales-Insight-Dashboard-using-Power-BI
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amisha1106&theme=github_dark"/>
-
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amisha1106&theme=github_dark" />
 </p>
 
----
-
-# 🔥 Contribution Streak
-
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=amisha1106&theme=github-dark&hide_border=true"/>
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amisha1106&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha1106&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" />
 </p>
 
-> **Note:** If your streak shows 3 instead of 4, it's due to the widget cache. It usually updates within 24–48 hours.
-
----
-
-# 📊 Most Used Languages
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha1106&layout=compact&theme=github_dark&hide=html,css,jupyter%20notebook"/>
-
-</p>
-
-> Hiding **HTML**, **CSS**, and **Jupyter Notebook** gives a more accurate representation of your core programming skills.
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amisha1106&theme=algolia&margin-w=12&margin-h=12&no-frame=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=amisha1106&theme=github-dark&hide_border=true" />
 </p>
 
 ---
