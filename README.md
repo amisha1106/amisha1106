@@ -384,6 +384,8 @@ https://github.com/amisha1106/Sales-Insight-Dashboard-using-Power-BI
 
 ---
 
+---
+
 # 📊 GitHub Analytics
 
 <p align="center">
@@ -391,13 +393,23 @@ https://github.com/amisha1106/Sales-Insight-Dashboard-using-Power-BI
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=amisha1106&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amisha1106&layout=compact&theme=github_dark&hide_border=true&langs_count=8&hide=html,css,jupyter%20notebook" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amisha1106&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amisha1106&theme=github_dark" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amisha1106&theme=github-dark&hide_border=true" />
 </p>
+
+---
+
+## 📌 GitHub Highlights
+
+- 🚀 Building end-to-end Machine Learning & AI applications
+- 📈 Continuously improving through hands-on projects
+- 🤝 Learning and contributing to Open Source
+- 📊 Active on GitHub, Kaggle & LeetCode
+- ⚡ Focused on writing clean, production-ready code
 
 ---
 
