@@ -393,7 +393,7 @@ https://github.com/amisha1106/Sales-Insight-Dashboard-using-Power-BI
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amisha1106&theme=github_dark" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amisha1106&theme=github_dark" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amisha1106&theme=github_dark&utcOffset=5.5" />
 </p>
 
@@ -402,7 +402,7 @@ https://github.com/amisha1106/Sales-Insight-Dashboard-using-Power-BI
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amisha1106/amisha1106/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img width="95%" src="https://raw.githubusercontent.com/amisha1106/amisha1106/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
